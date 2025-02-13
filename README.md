@@ -1,23 +1,23 @@
-Hi there 👋 I'm Sumit Yadav
-🚀 Machine Learning Engineer | AI Enthusiast | Data-Driven Problem Solver
-I'm a passionate Machine Learning Engineer with expertise in developing end-to-end AI solutions, data-driven analytics, and automation. My projects focus on predictive modeling, anomaly detection, NLP, and scalable ML pipelines.
+<h1 align="center">Hi 👋, I'm sumit yadav</h1>
+<h3 align="center">A passionate Data science and GEN AI developer from India</h3>
 
-🛠️ What I Do
-🔍 Retrieval-Augmented Generation (RAG) Q&A System – Built a Streamlit-based CPC Query Answering System using LangChain & OpenAI, deployed on Hugging Face Spaces.
-📊 A/B Testing & Marketing Analytics – Led a marketing optimization project using statistical tests (Chi-square, ANOVA, etc.), optimizing ad conversion rates.
-🛠️ Anomaly Detection in Sensors – Developed a high-accuracy (99.6%) predictive maintenance solution for Air Pressure System sensors using XGBoost.
-📌 ML Pipeline for Visa Certification Prediction – Deployed a scalable ML pipeline (97% accuracy) with AWS, FastAPI, Docker, and CI/CD (GitHub Actions), integrating real-time drift detection.
-🎥 YouTube Summarization Chatbot – Built an AI-powered chatbot using ChatGroq, yt-dlp, and Google Translate, allowing multilingual summaries & PDF reports.
-🌱 Currently Learning
-Advanced NLP techniques
-Vector Databases & AI Retrieval Systems
-LLM Optimization & Fine-tuning
-🤝 Open to Collaborate On
-AI-powered chatbots & automation
-End-to-end ML model deployment
-NLP & Generative AI projects
-📫 How to Reach Me
-LinkedIn: Your LinkedIn
-Email: Your Email
-GitHub: sumit36871
-⚡ Fun Fact: I love solving real-world problems with AI & turning ideas into impactful ML solutions!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumit36871&label=Profile%20views&color=0e75b6&style=flat" alt="sumit36871" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumit36871" alt="sumit36871" /></a> </p>
+
+- 📫 How to reach me **sumitjob36871@gmail.com**
+
+- ⚡ Fun fact **I think I am funny**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumit36871&show_icons=true&locale=en&layout=compact" alt="sumit36871" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumit36871&show_icons=true&locale=en" alt="sumit36871" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumit36871&" alt="sumit36871" /></p>
